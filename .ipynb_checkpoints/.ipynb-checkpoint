@@ -29,15 +29,6 @@
    "metadata": {},
    "outputs": [],
    "source": [
-    "#11/2-2020"
-   ]
-  },
-  {
-   "cell_type": "code",
-   "execution_count": null,
-   "metadata": {},
-   "outputs": [],
-   "source": [
     "#In this script you can see two types of comment. Some comments, like those\n",
     "#at the top of this page, are denoted by the use of three speech marks.\n",
     "#There, you can see that there are three speech marks to 'open' the comment,\n",
@@ -46,6 +37,15 @@
     "\n",
     "#However, you can also see that comments can be denoted by putting a hash at\n",
     "#the start of the comment - this is what you can see in this line for instance."
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "#7/2-2020"
    ]
   }
  ],
